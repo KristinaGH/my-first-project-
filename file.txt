@@ -1,4 +1,0 @@
-//prv fajl
-semos test
-//test1
-test
